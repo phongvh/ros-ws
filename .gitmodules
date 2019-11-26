@@ -1,0 +1,3 @@
+[submodule "src/my_move_base_launcher"]
+	path = src/my_move_base_launcher
+	url = git@github.com:phongvh/my_move_base_launcher.git
