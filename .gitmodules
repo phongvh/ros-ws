@@ -7,20 +7,20 @@
 [submodule "src/my_mira_description"]
 	path = src/my_mira_description
 	url = git@github.com:phongvh/my-mira-description.git
-	branch = .
+	branch = master
 [submodule "src/realsense-ros"]
 	path = src/realsense-ros
 	url = git@github.com:phongvh/realsense-ros.git
-	branch = .
+	branch = fork-2.2.9
 [submodule "src/turtlebot3"]
 	path = src/turtlebot3
 	url = git@github.com:phongvh/turtlebot3.git
-	branch = .
+	branch = master
 [submodule "src/turtlebot3_simulations"]
 	path = src/turtlebot3_simulations
 	url = git@github.com:phongvh/turtlebot3_simulations.git
-	branch = .
+	branch = master
 [submodule "src/turtlebot3_msgs"]
 	path = src/turtlebot3_msgs
 	url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
-	branch = .
+	branch = master
