@@ -1,12 +1,12 @@
 [submodule "src/my_move_base_launcher"]
 	path = src/my_move_base_launcher
-	url = git@github.com:phongvh/my_move_base_launcher.git
+	url = git@github.com:phongvh/my-move-base-launcher.git
 [submodule "src/ddynamic_reconfigure"]
 	path = src/ddynamic_reconfigure
 	url = git@github.com:phongvh/ddynamic_reconfigure.git
 [submodule "src/my_mira_description"]
 	path = src/my_mira_description
-	url = git@github.com:phongvh/my_mira_description.git
+	url = git@github.com:phongvh/my-mira-description.git
 	branch = .
 [submodule "src/realsense-ros"]
 	path = src/realsense-ros
